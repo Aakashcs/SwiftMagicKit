@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftMagicKit_Example' do
+  pod 'SwiftMagicKit', :path => '../'
+
+  target 'SwiftMagicKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
