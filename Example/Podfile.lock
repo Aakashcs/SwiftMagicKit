@@ -1,0 +1,16 @@
+PODS:
+  - SwiftMagicKit (0.1.0)
+
+DEPENDENCIES:
+  - SwiftMagicKit (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftMagicKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftMagicKit: 7f5b6c25fe1d444b031e5ea270387ca436169fd8
+
+PODFILE CHECKSUM: c90737bdceb9eb2c122c82f5a984f8e7ea47445f
+
+COCOAPODS: 1.10.0
